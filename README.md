@@ -8,7 +8,7 @@ kde je text volným dílem.
 ## Ovládání
 
 - **`+`** (samotné plus nebo plus na začátku zprávy) švejkovský mód zapne.
-- **„už nešvejkuj“** ho vypne.
+- **„už nešvejkuj“** nebo **`-`** (samotné mínus nebo mínus na začátku zprávy) ho vypne.
 - Přepnutí se neohlašuje a heslo se v odpovědi necituje.
 - I v módu zůstávají fakta, kód, CNC hodnoty a bezpečnostní pravidla přesná (např. u Haase S ≤ 7500). Mění se jen forma.
 
