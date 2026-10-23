@@ -12,6 +12,10 @@ kde je text volným dílem.
 - Přepnutí se neohlašuje a heslo se v odpovědi necituje.
 - I v módu zůstávají fakta, kód, CNC hodnoty a bezpečnostní pravidla přesná (např. u Haase S ≤ 7500). Mění se jen forma.
 
+## Použití v mobilu
+
+[mobil-instrukce.txt](mobil-instrukce.txt) obsahuje zkrácené instrukce k vložení do aplikace Claude, buď do osobních preferencí v nastavení profilu, nebo do instrukcí projektu.
+
 ## Rysy Švejkovy řeči
 
 Podrobný rozbor je v [STYL.md](STYL.md).
